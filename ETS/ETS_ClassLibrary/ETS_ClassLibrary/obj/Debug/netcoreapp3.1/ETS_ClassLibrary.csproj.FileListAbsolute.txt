@@ -1,0 +1,42 @@
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.exe
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.deps.json
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.runtimeconfig.json
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.runtimeconfig.dev.json
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.dll
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.pdb
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.AssemblyInfo.cs
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.dll
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.pdb
+C:\Users\Josh Acre-Hosein\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.genruntimeconfig.cache
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.exe
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.deps.json
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.runtimeconfig.json
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.runtimeconfig.dev.json
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.dll
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.pdb
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.AssemblyInfo.cs
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.dll
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.pdb
+C:\Users\hanks\source\repos\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.genruntimeconfig.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.exe
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.deps.json
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.runtimeconfig.json
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.runtimeconfig.dev.json
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.dll
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\bin\Debug\netcoreapp3.1\ETS_ClassLibrary.pdb
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.AssemblyInfo.cs
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.dll
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.pdb
+C:\Users\Josh Acre-Hosein\Desktop\ETS\ETS_ClassLibrary\ETS_ClassLibrary\obj\Debug\netcoreapp3.1\ETS_ClassLibrary.genruntimeconfig.cache

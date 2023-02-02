@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fjy5PraKHlwHq3UmlJ04WriMEErgf13Y6I9GRIbnQ/b+cUHPjl2/lseQ1yvceuFNh7a5foKJ/cRt3xC6r65Hpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh Acre-Hosein\\Desktop\\ETS\\ETS_ClassLibrary\\ETS_ClassLibrary\\ETS_ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh Acre-Hosein\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

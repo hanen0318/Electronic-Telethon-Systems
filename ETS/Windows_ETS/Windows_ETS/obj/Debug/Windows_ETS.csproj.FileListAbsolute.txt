@@ -1,0 +1,29 @@
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\bin\Debug\Windows_ETS.exe.config
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\bin\Debug\Windows_ETS.exe
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\bin\Debug\Windows_ETS.pdb
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\bin\Debug\ETS_ClassLibrary.dll
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\bin\Debug\ETS_ClassLibrary.pdb
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.AssemblyReference.cache
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.FrmLogin.resources
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.FrmMain.resources
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.Properties.Resources.resources
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.GenerateResource.cache
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.CoreCompileInputs.cache
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.CopyComplete
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.exe
+C:\Users\hanks\source\repos\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.pdb
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\bin\Debug\Windows_ETS.exe.config
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\bin\Debug\Windows_ETS.exe
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\bin\Debug\Windows_ETS.pdb
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\bin\Debug\ETS_ClassLibrary.dll
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\bin\Debug\ETS_ClassLibrary.pdb
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.AssemblyReference.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.FrmLogin.resources
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.Properties.Resources.resources
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.GenerateResource.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.CoreCompileInputs.cache
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.csproj.CopyComplete
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.exe
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.pdb
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.ETSTelethon.resources
+C:\Users\Josh Acre-Hosein\Desktop\ETS\Windows_ETS\Windows_ETS\obj\Debug\Windows_ETS.FrmETSTelethon.resources
